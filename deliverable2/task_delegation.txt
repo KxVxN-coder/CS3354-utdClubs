@@ -1,0 +1,38 @@
+Alex Nguyen (Previously: Use Case Diagram, readme document)
+- Task 6: Test Plan and Execution
+- Assist with Task 9: Presentation Slides
+
+Angel Villanueva (Previously: Class Diagram)
+- Task 4: Hardware and Software Cost Estimation
+- Assist with Task 7: Comparison with Similar Designs
+
+Arhum Khan (Previously: Sequence Diagram)
+- Task 8: Conclusion and Evaluation
+- Assist with Task 1: Project Deliverable 1 Content and Compilation
+
+Azaria Rubenstein (Previously: Compiled Final Project Deliverable 1 Document)
+- Task 1: Project Deliverable 1 Content and Compilation
+- Task 9: Presentation Slides
+
+Cooper Kelley (Previously: Software Process Model, Architecture Design)
+- Task 2: Project Scheduling, Duration, and Staffing
+- Assist with Task 8: Conclusion and Evaluation
+
+Kevin Puga (Previously: Created and managed GitHub)
+- Task 10: GitHub Management and Submission
+- Assist with Task 4: Hardware and Software Cost Estimation
+
+Raul Hernandez (Previously: Software Requirements, Project Manager)
+- Task 3: Cost, Effort, and Pricing Estimation (Function Point)
+- Task 5: Personnel Cost Estimation
+
+Rees Blatt (Previously: Project Scope)
+- Task 7: Comparison with Similar Designs
+- Assist with Task 2: Project Scheduling, Duration, and Staffing
+
+Additional tasks (if applicable):
+- References: Azaria Rubenstein (as part of Task 1)
+- Optional Implementation: Assign based on team members' skills and preferences
+
+This allocation takes into account the previous responsibilities of each team member and distributes the tasks for Deliverable 2 accordingly. It also ensures that team members collaborate on specific tasks to promote knowledge sharing and balance the workload.
+
